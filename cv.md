@@ -1,4 +1,4 @@
-1. Anzhelica Pikulina
+1. ** Anzhelica Pikulina **
 2. +34608192885 WhatsApp, angela.pikulina@gmail.com
 3. I want to learn how to create iOS applications. I have always learned quickly, I am hard-working and am very interested in this type of activity.
 4. I am a developer of many of my own configurations for 1C: Accounting in Ukraine. The configuration for accounting for all processes in a restaurant was very popular in Kiev and Odessa. I know SQL and Swift language
