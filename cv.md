@@ -5,4 +5,4 @@
 5. Code examples are in my repository.
 6. I have some homework on Git Hub from the tutorials.
 7. Higher education, systems engineer, specialty "Computer". Graduated from the State University of Aerospace Instrumentation in St. Petersburg. 2 courses SWIFTBOOK.RU
-8. I have basic English. I speak Spanish at B2 level.
+8. I have basic English. I speak Spanish at B2 level. :-)))
